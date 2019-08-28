@@ -30,3 +30,4 @@ celebrity = input("enter celebrity name: ")
 print("roses are " + color)
 print(plural_noun + " are blue")
 print("i love " + celebrity)
+# using pycharm to commit to git
